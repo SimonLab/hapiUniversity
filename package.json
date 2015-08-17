@@ -1,0 +1,17 @@
+{
+  "name": "hapiUniversity",
+  "version": "1.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node lib/index.js"
+  },
+  "author": "SimonLab",
+  "license": "BSD",
+  "dependencies": {
+    "hapi": "^9.0.2",
+    "hoek": "^2.14.0",
+    "path": "^0.11.14"
+  }
+}
